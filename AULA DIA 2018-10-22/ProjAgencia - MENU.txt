@@ -1,0 +1,20 @@
+::::::::::::::::::::::GENRENCIAR CONTAS:::::::::::::::::::::::
+::  1  -  CADASTRAR CONTA	                            ::
+::  2  -  MOSTRAR TODAS AS CONTAS                           ::
+::  3  -  MOSTRAR QUANTIDADE DE CONTAS                      ::
+::  4  -  PESQUISAR CONTAS POR MÊS DE ABERTURA              ::
+::  5  -  MOSTRAR A MÉDIA DE LIMITES			    ::
+::  6  -  MOSTRAR O MAIOR LIMITE			    ::
+::  7  -  MOSTRAR A MÉDIA DE SALDOS			    ::
+::  8  -  MOSTRAR O MAIOR SALDO			            ::
+::  9  -  MOSTRAR TODOS OS DADOS DA AGÊNCIA		    ::
+::  10 -  PESQUISAR CONTA POR NÚMERO                        ::
+::  11 -  ALTERAR SALDO DA CONTA PESQUISANDO POR NÚMERO     ::
+::  12 -  REMOVER CONTA PESQUISANDO POR NÚMERO              ::
+::  13 -  EXCLUIR TODOS AS CONTAS                           ::
+::  0  -  SAIR                                              :: 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+DIGITE A OPÇÃO: 
+
+
+OBS. O USUÁRIO NÃO PODE CADASTRAR MAIS DE UMA CONTA COM O MESMO NÚMERO  

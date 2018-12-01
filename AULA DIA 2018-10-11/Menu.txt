@@ -1,0 +1,19 @@
+:::::::::::::::::::::: Sistema de Cadastramento ::::::::::::::::::::::
+Escolha uma opção abaixo
+[1] - Cadastrar funcionário
+[2] - Cadastrar usuário
+[3] - Cadastrar livro
+[4] - Mostrar todos os dados do cadastro
+[5] - Ir para locação	
+	::::::::::::::::: Sistema de Locação ::::::::::::::::::
+        Escolha uma opção abaixo
+        [1] - Locar livro
+        [2] - Devolver livro
+        [3] - Mostrar os dados do livro locado
+        [4] - Mostra os dados do livro devolvido
+        [0] - Sair
+        Digite aqui a opção: 
+[0] - Sair do sistema
+
+	
+Digite aqui opção:
